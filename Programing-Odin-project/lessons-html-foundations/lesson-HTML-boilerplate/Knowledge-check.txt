@@ -1,0 +1,9 @@
+What is the purpose of the doctype declaration?
+To tell the browser what version of HTML are we using.
+What is the HTML element?
+Is the element in which the website is written like the ground we are working on, this is because as we make a more complex website we are going to also have CSS and JS elements in within our html file but not within the html element.
+What is the purpose of the head element?
+To provide information to the browser as to how to render our webpage, like the title it's not part of the webpage or "body" and therefore that information is put in the head element.
+What is the purpose of the body element?
+to build our website in the actual thing that user will be able to see in there we are going to place the elements of our webpage.
+

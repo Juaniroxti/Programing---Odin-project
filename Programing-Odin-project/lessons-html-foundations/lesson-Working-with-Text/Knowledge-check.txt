@@ -1,0 +1,17 @@
+How do you create a paragraph in HTML?
+you use the <p> element.
+How do you create a heading in HTML?
+you use the <h1> through <h6> element for decreasing size 1 being the biggest.
+How many different levels of headings are there and what is the difference between them?
+6 and the size hierarchy decreases with h1 being the biggest and highest in hierarchy.
+What element should you use to make bold and importan?
+<strong> element you should particularly use that element because if someone is using a screen reader the use of that element will tell the screen reader to give it importance.
+What element should you use to make text italicized to add emphasis to it?
+<em> </em> again you should use this element because screen readers are told through this element that they should put emphasis in the text.
+What relationship does an element have with any nested elements within it?
+Parent and child, all the traits of the parents apply to the child but not viceversa.
+What relationship do two elements have if they are at the same level of nesting? 
+Sibblings they all share whatever traits the parents have but not any traits specific to each one of them.
+How do you create HTML comments?
+<!-- "your comment goes here..." -->
+

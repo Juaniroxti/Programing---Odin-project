@@ -1,0 +1,7 @@
+What is an HTML tag?
+It's the building blocks that define the structure of the website, like the basis of the webpage.
+What are the three parts of an HTML element?
+the opening tag, the content, the closing tag
+What are void elements, and how are they different from regular HTML elements?
+The  are elements that have nothing in them and they don't have a closing tag which means they can't wrap content like a normal tag would. Examples of them are <br> and <img>.
+
