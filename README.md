@@ -1,1 +1,2 @@
 # Programing---Odin-project
+I'm uploading everything here and maybe creating redundant and separated github repositories just so that I can keep practicing working with Git and GitHub on a daily basis.
