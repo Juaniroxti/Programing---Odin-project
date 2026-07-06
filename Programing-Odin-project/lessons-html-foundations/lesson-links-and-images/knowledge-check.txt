@@ -1,0 +1,18 @@
+What element is used to create a link?
+<a href= ""> text to highlight</a>
+What is an attribute?
+An element that gives aditional information to the HTML element; they always go in the opening tag.
+What attribute tells links where to go to?
+href =""> that attribute tells the link where to go.
+What security considerations must be taken if you wish to use the target attribute to open links in a new tab/window?
+noreferrer and noopener to prevent attacks.
+What is the difference between an absolute and relative link?
+A relative link uses the path that is relative to the directory itself is in. An absolute link uses the URL of a web to specify no matter where it will always work.
+Which element is used to display an image?
+<img href="" alt="" width "">
+What two attributes do images always need to have?
+href="" and alt="".
+How do you access a parent directory in a filepath?
+../path to the file.
+What are the four main image formats that you can use for images on the web?
+PNG, JPG, GIF, SVG.
