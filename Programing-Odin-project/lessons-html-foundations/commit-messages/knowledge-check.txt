@@ -1,5 +1,5 @@
 What are two benefits of having well-written commit messages and a good commit history?
 To have an easy fall back for other developers and your future self to work on the changes made, it should provide clear instructions as to the change and in the body the reason for the change and the logic used to find the solution. Also if you don't have a good commit message history your log will be difficult or painful to read leading to discard the tool altogether, it's either a positive feedback loop or a negative feedback loop.
 How many characters should the subject line of your commit message be?
-Less than 50 characters, exlained in the imperative, for example my commit subject line for this lesson will be: Finish the lesson on commit messages & fill the knowledge check.
+Less than 50 characters, explained in the imperative, for example my commit subject line for this lesson will be: Finish the lesson on commit messages & fill the knowledge check.
 
