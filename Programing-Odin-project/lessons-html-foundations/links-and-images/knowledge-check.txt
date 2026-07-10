@@ -9,7 +9,7 @@ noreferrer and noopener to prevent attacks.
 What is the difference between an absolute and relative link?
 A relative link uses the path that is relative to the directory itself is in. An absolute link uses the URL of a web to specify no matter where it will always work.
 Which element is used to display an image?
-<img href="" alt="" width "">
+<img src="" alt="" width "">
 What two attributes do images always need to have?
 href="" and alt="".
 How do you access a parent directory in a filepath?
