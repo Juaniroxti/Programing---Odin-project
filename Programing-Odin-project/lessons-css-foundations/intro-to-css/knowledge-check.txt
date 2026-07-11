@@ -1,0 +1,14 @@
+What is the syntax for class and ID selectors?
+"." for class followed by the name or names of classes that needs to contain and "#" for ID selector followed by the value given to the ID and the instructions to be contained.
+How would you apply a single rule to two different selectors?
+It would look like this:
+.name-of-class-1 , .name-of-class-2 {instructions}
+Given an element that has an id of title and a class of primary, how would you use both attributes for a single rule?
+"#title.primary {}"
+What does the descendant combinator do?
+Give atributes to anything in the "parent" divisor.
+What are the names of the three ways to add CSS to HTML?
+External, internal, inline.
+What are the main differences between the three ways of adding CSS to HTML?
+It's hierarchy, from the top is first inline, then internal, then external. So the style of the element might be visible for only one element, the entire page, or the set of pages you would have that has that CSS file.
+

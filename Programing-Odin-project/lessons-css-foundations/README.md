@@ -1,0 +1,1 @@
+anyhting in the css-exercise directory can be found within the https://github.com/Juaniroxti/css-exercises/tree/main given the fact that I need to learn more on how to deal with Git and GitHub to merge them properly.
