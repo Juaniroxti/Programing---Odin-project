@@ -1,0 +1,3 @@
+Between a rule that uses one class selector and a rule that uses three type selectors, which rule has the higher specificity?
+the one that uses class selector, because the cascade only looks for the lower hierarchy to tie break.
+
